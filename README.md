@@ -13,3 +13,5 @@ We have trained our model using the training set, using a combination of backpro
 
 ## Evaluation
 We have evaluated the performance of our model on the testing set, using metrics such as accuracy, precision, recall, and F1 score. We will also perform a qualitative analysis of our model's predictions, examining examples of correctly and incorrectly classified news articles.
+
+you can contact me at: hamza.sial1911@gmail.com
